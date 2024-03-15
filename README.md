@@ -5,7 +5,7 @@ SUPERMARKET SALES ANALYSIS
 
 Introduction
 
-The growth of supermarkets in most populated cities and market competitions are increasing .The dataset is one of the historical sales of supermarket company which was recorded in 3 different branches for 3 months (January to March.2019). It has 1000 records.
+The growth of supermarkets in most populated cities and market competitions are increasing .The dataset is one of the historical sales of supermarket company which was recorded in 3 different branches for 3 months (January to March.2019). It has 17 columns and 1000 records.
 
 
 
